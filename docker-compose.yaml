@@ -5,7 +5,7 @@ services:
     environment:
       - SPRING_DATASOURCE_URL=jdbc:mysql://quiz-db:3306/student_tracker
       - SPRING_DATASOURCE_USERNAME=root
-      - SPRING_DATASOURCE_PASSWORD=Poperman@29
+      - SPRING_DATASOURCE_PASSWORD=prasanna@123
     ports:
       - 8888:8888
     depends_on:
